@@ -1,0 +1,8 @@
+title: Boardgamegeek4android
+description: BoardGameGeek application for Android
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
